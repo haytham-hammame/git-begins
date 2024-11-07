@@ -1,0 +1,7 @@
+Commande pour cloner un repository
+git clone url_du_repository
+
+Commandes pour push
+git add .
+git commit -m "votre_message"
+git push origin main
